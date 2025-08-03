@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "PRERENDER_ROUTES": "false"
+    }
+  }
+}
