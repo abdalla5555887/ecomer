@@ -10,6 +10,7 @@ import { LoginComponent } from './pages/login/login.component';
 import { NotFoundComponent } from './pages/not-found/not-found.component';
 import { ProductsComponent } from './pages/products/products.component';
 import { RegisterComponent } from './pages/register/register.component';
+import { DetailsComponent } from './pages/details/details.component';
 import { CategoriesComponent } from './pages/categories/categories.component';
 import { authGuard } from './core/guards/auth/auth.guard';
 import { log } from 'console';
